@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Intiajul Alam Shah</h1>
 <h3 align="center">A passionate learner from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intiajul&label=Profile%20views&color=0e75b6&style=flat" alt="intiajul" /> </p>
